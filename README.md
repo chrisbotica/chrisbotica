@@ -4,4 +4,4 @@
 
 🔬 Former Military Research Fellow at MIT Lincoln Labs 
 
-📖  Before that, member of Olga Vitek Lab & Spatiotemporal Learning Lab at Northeastern University (during grad school)
+📖  Before that, member of _Olga Vitek Lab_ & _Spatiotemporal Learning Lab_ at Northeastern Univ. (grad school)
