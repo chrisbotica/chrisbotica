@@ -10,4 +10,4 @@ make my tighter tighter tighter feedback loop make my model mo' mo' mo' better .
 
 🔬 Former Military Research Fellow at MIT Lincoln Labs 
 
-📖  Before that, member of _Olga Vitek Lab_ & _Spatiotemporal Learning Lab_ at Northeastern Univ. (grad school)
+📖  Also former member of _Olga Vitek Lab_ & _Spatiotemporal Learning Lab_ at Northeastern Univ. (grad school)
