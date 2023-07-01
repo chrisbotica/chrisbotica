@@ -1,6 +1,5 @@
 ### 👋 Hi there, I'm Chris Botica
-
-Love tight data feedback loops to make models better!
+_Love tight data feedback loops to make models better!_
 
 ✈️ Currently working on interesting data pipeline & ML problems for the F-35!
 
