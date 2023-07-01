@@ -6,7 +6,7 @@
 make my tighter tighter tighter feedback loop make my model mo' mo' mo' better ... 💥🤖
 ```
 
-✈️ Currently working on interesting data pipeline & ML problems for the F-35!
+✈️ Currently working on interesting data pipeline & ML problems for the F-35
 
 🔬 Former Military Research Fellow at MIT Lincoln Labs 
 
