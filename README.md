@@ -1,6 +1,4 @@
-### 👋 Hi there, I'm Chris Botica
-
-✈️ Currently working on interesting data pipeline & ML problems for the F-35
+✈️ Currently working on metacognition for agents & ML problems for the F-35 
 
 🔬 Former Military Research Fellow at MIT Lincoln Labs 
 
